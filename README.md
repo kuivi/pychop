@@ -95,6 +95,6 @@ MIT License
 
 Contact
 
-For questions or feedback, please contact @kuivi.
+For questions or feedback, please contact [@kuivi](https://github.com/kuivi) and Mayya Gogina, IOW. 
 
 This script was developed as part of the DAM pilot-mission project MGF-OSTSEE II to support the investigation of bottom trawling effects on marine environments.
