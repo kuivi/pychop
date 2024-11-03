@@ -8,7 +8,7 @@ This script processes two underwater videos recorded from different cameras (e.g
 
 ## Description
 
-The script extracts frames every 5 meters of drift, along with frames before and after each drift point, and combines them into a single image for comparison. This allows for coarse estimates of the density of the ocean quahog Arctica islandica and helps relate hydroacoustic backscatter patterns to the occurrence of mussel shell clusters, trawling marks, and other seafloor features.
+The script extracts frames every e.g. 1 or 5 meters of drift, along with frames before and after each drift point, and combines them into a single image for comparison. This allows for coarse estimates of the density of the ocean quahog Arctica islandica and helps relate hydroacoustic backscatter patterns to the occurrence of mussel shell clusters, trawling marks, and other seafloor features.
 
 ![000268m_20240717_141533](https://github.com/user-attachments/assets/8e3f33be-8e17-4d7d-9894-98c6915b435e)
 
